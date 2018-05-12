@@ -1,0 +1,39 @@
+_repo: My-Reminiscences-of-the-Anglo-Boer-War_25049
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Breda, P.
+    gutenberg_agent_id: '28369'
+    url: http://www.gutenberg.org/2009/agents/28369
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Viljoen, Ben J. (Ben Johannis)
+    alias: Viljoen, Benjamin Johannis
+    birthdate: 1868
+    deathdate: 1917
+    gutenberg_agent_id: '28370'
+    url: http://www.gutenberg.org/2009/agents/28370
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Viljoen
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2008-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisoners of war -- Great Britain -- Biography'
+- !lcsh 'Prisoners of war -- South Africa -- Biography'
+- !lcsh 'Generals -- South Africa -- Biography'
+- !lcsh 'Viljoen, Ben J. (Ben Johannis), 1868-1917'
+- !lcsh 'South African War, 1899-1902 -- Personal narratives'
+- !lcc 'DT'
+- !lcsh 'South African War, 1899-1902 -- Prisoners and prisons, British'
+title: My Reminiscences of the Anglo-Boer War
+url: http://www.gutenberg.org/ebooks/25049
