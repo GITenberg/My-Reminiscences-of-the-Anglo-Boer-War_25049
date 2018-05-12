@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28370
     wikipedia: http://en.wikipedia.org/wiki/Ben_Viljoen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25049#My-Reminiscences-of-the-Anglo-Boer-War
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2008-04-11'
 gutenberg_type: Text
